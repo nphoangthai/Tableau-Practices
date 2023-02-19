@@ -18,7 +18,7 @@
 
 ### In Progress
 <p align="center">
-   <img src="Image/In progress.png"></img>
+   <img src="Image/In Progress.png"></img>
 </p>
 
 ### Resolved At No Cost
@@ -38,28 +38,14 @@
 
 ### Complaints By Product
 <p align="center">
-   <img src="Image/Tweets vs Details Expand.png"></img>
+   <img src="Image/Complaints By Product.png"></img>
 </p>
 
-* Review
-  - 6AM and 7AM are missing from the data.
-  - The number of tweets increased significantly at 12AM, peaked around noon and then gradually decreased at later in the day.
-  - Details expand occured mostly at 13PM and 19PM. This was maybe because people had lunch break and got off work so they had more time to spend on Twitter.
-
-### % Cosumer Disputed
+### % Consumer Disputed
 <p align="center">
-   <img src="Image/Tweets by Day and Week.png"></img>
+   <img src="Image/Percentage Cosumer Disputed.png"></img>
 </p>
-
-* Note: This chart focuses in August/2020. You can change the month in Tableau.
-* Review:
-  - It seems like people were tweeting more on weekdays rather than the weekends, mostly on Monday in August/2020.
     
-### Complaints By Media
-<p align="center">
-   <img src="Image/Complaints By Media.png"></img>
-</p>
-
 ### Complaints By Media
 <p align="center">
    <img src="Image/Complaints By Media.png"></img>
@@ -69,3 +55,6 @@
 <p align="center">
    <img src="Image/Complaints By Media.png"></img>
 </p>
+
+* Review
+   - Most complaints come from major states, such as California, New York, Florida and Texas
