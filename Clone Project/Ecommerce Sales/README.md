@@ -5,3 +5,9 @@
 
 ## Result
 ### Sales
+
+### Profits
+### Order Quantity
+### Market Share by Sales
+### Category wise Year to Date sales versus Previous Year
+### Market wise Customer Aquisition per Month
