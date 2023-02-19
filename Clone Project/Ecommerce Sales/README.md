@@ -1,16 +1,19 @@
 # PROJECT DETAILS
 
-* `Guide`: [Data Tutorials](https://www.youtube.com/watch?v=oAIubTqg-Kw&list=PLO9LeSU_vHCU_DHaLzEvsLxFdmB3Qcao_&index=1)
-* `Data`: Employees of a company.
-* `Note`: The visuals below are dashboard elements so the axis, legends, ... are not included. Click on the [link]() to this workbook and feel free to fiddle around.
+* `Guide`: [Data Tutorials](https://www.youtube.com/watch?v=pCpvlIr1yvs&list=PLO9LeSU_vHCU_DHaLzEvsLxFdmB3Qcao_&index=3)
+* `Data`: Ecommerce sales and profits across many regions and product categories from 2016 to 2017.
+* `Note`: The visuals below are dashboard elements so the axis, legends, ... are not included. Click on the [link](https://public.tableau.com/views/EcommerceSales_16762877056020/MarketwiseCustomerAquisitionperMonth?:language=en-US&:display_count=n&:origin=viz_share_link) to this workbook and feel free to fiddle around.
 
 ## Result
-### Employee Count
+### Sales
 <p align="center">
-   <img src="Image/Employee Count.png" width=758 height=383></img>
+   <img src="Image/Sales.png" width=758 height=383></img>
 </p>
 
 * Review
+  - Sales increased slowly from 2016 to 2017.
+  - After a sales peak in March/2016 and January/2017, sales went down for several months before this happened again. This could mean that there was a seasonal trend in sales but we would need more data for a longer period of time to investigate this further.
+  - Sales dropped significantly in November/2017, this detail is interesting to look into what had happened.
 
 ### Profit
 <p align="center">
