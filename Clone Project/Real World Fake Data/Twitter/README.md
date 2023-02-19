@@ -1,8 +1,8 @@
 # PROJECT DETAILS
 
 * `Guide`: [Abhishek Agarrwal](https://www.youtube.com/@AbhishekAgarrwal)
-* `Data`: Tweet data from June/2020 to October/2020
-* `Note`: The visuals below are dashboard elements so the axis, legends, ... are not included. Click on the [link]() to this workbook and feel free to fiddle around.
+* `Data`: Tweet data from June/2020 to October/2020.
+* `Note`: The visuals below are dashboard elements so the axis, legends, ... are not included. Click on the [link](https://public.tableau.com/views/SocialMedia_16763460147010/TopNTweets?:language=en-US&:display_count=n&:origin=viz_share_link) to this workbook and feel free to fiddle around.
 
 ## Result
 ### Total Tweets
