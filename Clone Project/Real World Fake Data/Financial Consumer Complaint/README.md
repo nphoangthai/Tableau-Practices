@@ -53,7 +53,7 @@
 
 ### Complaints By States
 <p align="center">
-   <img src="Image/Complaints By Media.png"></img>
+   <img src="Image/Complaints By States.png"></img>
 </p>
 
 * Review
