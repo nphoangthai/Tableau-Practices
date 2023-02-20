@@ -40,7 +40,7 @@
    <img src="Image/Tweets vs Details Expand.png"></img>
 </p>
 
-* Review
+* `Review`
   - 6AM and 7AM are missing from the data.
   - The number of tweets increased significantly at 12AM, peaked around noon and then gradually decreased at later in the day.
   - Details expand occured mostly at 13PM and 19PM. This was maybe because people had lunch break and got off work so they had more time to spend on Twitter.
@@ -51,6 +51,6 @@
 </p>
 
 * Note: This chart focuses in August/2020. You can change the month in Tableau.
-* Review:
+* `Review`
   - It seems like people were tweeting more on weekdays rather than the weekends, mostly on Monday in August/2020.
     
