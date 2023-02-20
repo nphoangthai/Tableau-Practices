@@ -48,7 +48,7 @@
    <img src="Image/Category wise YTD Sales vs PYTD.png" width=758 height=383></img>
 </p>
 
-* Review
+* `Review`
   - I can see there could be a transition in customers' interest: 
     - In the top 9 categories, 6 of them had a decrease in sales than previous year and 5 out of 6 declined more than 24%.
     - `Camping & Hiking` and `Water Sports` ranked third and fourth in 2017 with a significant rise than previous year.
