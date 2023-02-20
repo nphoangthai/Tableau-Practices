@@ -56,5 +56,5 @@
    <img src="Image/Complaints By States.png"></img>
 </p>
 
-* Review
+* `Review`
    - Most complaints come from major states, such as California, New York, Florida and Texas
