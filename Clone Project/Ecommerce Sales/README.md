@@ -10,7 +10,7 @@
    <img src="Image/Sales.png" width=758 height=383></img>
 </p>
 
-* Review
+* `Review`
   - Sales increased slowly from 2016 to 2017.
   - After a sales peak in March/2016 and January/2017, sales went down for several months before this happened again. This could mean that there was a seasonal trend in sales but we would need more data for a longer period of time to investigate this further.
   - Sales dropped significantly in November/2017, this detail is interesting to look into what had happened.
@@ -38,7 +38,7 @@
    <img src="Image/Market Share by Sales.png" width=758 height=383></img>
 </p>
 
-* Review
+* `Review`
   - Sales mainly came from LATAM and Europe, which took up more than 75% of total sales.
   - Then Pacific Asia came in third and the last is Africa.
   - Keep focusing on LATAM and Europe would be a more sensible choice while expanding business to Pacific Asia and Africa would require more data and further analysis.
