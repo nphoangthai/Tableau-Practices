@@ -47,7 +47,7 @@
    <img src="Image/No of Employee by Age group.png"></img>
 </p>
 
-* Review
+* `Review`
    - Most of the employees are experienced as the average age is 37 and most of the employees fall in to age range from 30 to 40.
 
 ### Job satisfaction Rating
@@ -55,7 +55,7 @@
    <img src="Image/Job Satisfaction Rating.png"></img>
 </p>
 
-* Review
+* `Review`
     - `Sales Executive` role had the most employees while `Human Resources` was the opposite.
     - Overall, employees were quite satisfied, but it was worth noticing that at about 38.7% employees (who rated 1 or 2) were unsatisfied about their job.
     - I noticed in the departments having less than 110 employees, employees' rating didn't really differ significantly. I wonder if this is the case of sample size affecting the analysis result.
@@ -70,5 +70,5 @@
    <img src="Image/Attrition Rate by Gender for different Age group.png"></img>
 </p>
 
-* Review
+* `Review`
    - Attrition mainly occured in Male and employees who are under 44.
